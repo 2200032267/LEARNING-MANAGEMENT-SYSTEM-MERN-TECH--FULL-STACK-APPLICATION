@@ -8,9 +8,9 @@ A responsive and feature-rich Full-Stack LMS platform built using the MERN stack
 
 ## 🔗 Project Links
 
-- 🔗 **Live Site (Render Deployment):** [Click Here]()
-- 📰 **LinkedIn Article:** [Click Here]()
-- 📹 **Video Demo:** [Click Here]()
+- 🔗 **Live Site (Render Deployment):** [Click Here](https://learning-management-system-mern-tech-a5ka.onrender.com)
+- 📰 **LinkedIn Article:** [Click Here](https://www.linkedin.com/in/n-vighnesh-5b74aa24a/recent-activity/articles/)
+- 📹 **Video Demo:** [Click Here](https://drive.google.com/file/d/17Xh0YOEnYOLmzIMBURj3xbKDpq7UG2jB/view?usp=sharing)
 
 ---
 
