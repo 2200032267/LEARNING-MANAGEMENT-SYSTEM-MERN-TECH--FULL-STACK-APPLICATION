@@ -1,14 +1,16 @@
 # 📚 Full-Stack Learning Management System (LMS) – MERN Stack
 
+## 🚀 Project Overview
+
 A responsive and feature-rich Full-Stack LMS platform built using the MERN stack. It includes secure user authentication, role-based access (student/instructor), course creation, student enrollment, progress tracking, and course purchasing via PayPal integration.
 
 ---
 
 ## 🔗 Project Links
 
-🔗 Live Site (Render Deployment: [https://learning-management-system-mern-tech-a5ka.onrender.com]  
-📰 LinkedIn Article: [https://github.com/yourusername/lms-mern-stack]  
-📹 Video Demo: [https://drive.google.com/file/d/17Xh0YOEnYOLmzIMBURj3xbKDpq7UG2jB/view?usp=sharing]  
+- 🔗 **Live Site (Render Deployment):** [Click Here]()
+- 📰 **LinkedIn Article:** [Click Here]()
+- 📹 **Video Demo:** [Click Here]()
 
 ---
 
@@ -73,14 +75,23 @@ This Learning Management System (LMS) is a full-stack application that allows in
 
 ---
 
-## 👨‍💻 Author
+## 📸 Screenshots
 
-**N Vighnesh**  
-🔗 [LinkedIn](https://www.linkedin.com/in/n-vighnesh-5b74aa24a)  
-🔗 [GitHub](https://github.com/2200032267)
+**Final Outputs**
+[Click Here](Final_Outputs/)
 
 ---
 
-## 📄 License
+## 👤 Author
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+**NEDULLA VIGHNESH**  
+- GitHub: [2200032267](https://github.com/2200032267)  
+- LinkedIn: [N VIGHNESH](https://www.linkedin.com/in/n-vighnesh-5b74aa24a)  
+- Email:vighneshnv2@gmail.com
+---
+## ⭐ Star This Repository
+
+If you find this project useful or interesting, please ⭐ star this repository to support and encourage further development!  
+Your support means a lot! 🙏
+
+---
